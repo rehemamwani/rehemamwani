@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rehemamwani
+- 👋 Hi, I’m rehema mukami
 - 👀 I’m interested in ...biomedical research
 - 🌱 I’m currently learning ...bioinformatics
 - 💞️ I’m looking to collaborate on ...learning how to code
