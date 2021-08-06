@@ -1,0 +1,6 @@
+print("Name:Rehema mukami")
+print("Email:rehemamwani@gmail.com")
+print("slack_username:@rehema")
+print("my_biostack:student")
+print("twitter_handle:@rehemamukami")
+print("hamming_distance:6")
